@@ -5,7 +5,7 @@ import vk_api
 def main():
     """ Пример получения последнего сообщения со стены """
 
-    login, password = 'python@vk.com', 'mypassword'
+    login, password = 'maestro654@inbox.ru, 'mypassword'
     vk_session = vk_api.VkApi(login, password)
 
     try:
